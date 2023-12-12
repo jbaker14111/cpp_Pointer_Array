@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Josiah Baker - Dynamic Memory Assignment", "Josiah Baker - Dynamic Memory Assignment.vcxproj", "{FEDF3521-B965-4F59-8EF5-D30E0F16586C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEDF3521-B965-4F59-8EF5-D30E0F16586C}.Debug|x64.ActiveCfg = Debug|x64
+		{FEDF3521-B965-4F59-8EF5-D30E0F16586C}.Debug|x64.Build.0 = Debug|x64
+		{FEDF3521-B965-4F59-8EF5-D30E0F16586C}.Debug|x86.ActiveCfg = Debug|Win32
+		{FEDF3521-B965-4F59-8EF5-D30E0F16586C}.Debug|x86.Build.0 = Debug|Win32
+		{FEDF3521-B965-4F59-8EF5-D30E0F16586C}.Release|x64.ActiveCfg = Release|x64
+		{FEDF3521-B965-4F59-8EF5-D30E0F16586C}.Release|x64.Build.0 = Release|x64
+		{FEDF3521-B965-4F59-8EF5-D30E0F16586C}.Release|x86.ActiveCfg = Release|Win32
+		{FEDF3521-B965-4F59-8EF5-D30E0F16586C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDC408AF-0A25-4C0E-AB16-1EC73DE9E5F2}
+	EndGlobalSection
+EndGlobal
