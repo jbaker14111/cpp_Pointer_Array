@@ -1,2 +1,2 @@
-# cpp_Pointer_Array
- Creates a pointer array in C++ for dynamic memory allocation.
+# C++ Pointer Array, Dynamic Memory Allocation
+Completed this project while attending Liberty University Online. Creates a pointer array in C++ for dynamic memory allocation.
